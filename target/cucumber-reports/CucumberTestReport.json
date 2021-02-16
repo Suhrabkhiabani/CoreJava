@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2592135300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Execute all information from Actor table",
+        "description": "",
+        "id": "database-sql-query-feature;execute-all-information-from-actor-table",
+        "after": [
+          {
+            "result": {
+              "duration": 762264800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 480472500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User Connects to PostgreSql DataBase",
+            "match": {
+              "location": "DataBaseStepDefinition.user_Connects_to_PostgreSql_DataBase()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 24160400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User send query \u0027select description from public.film\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "select description from public.film",
+                  "offset": 17
+                }
+              ],
+              "location": "DataBaseStepDefinition.user_send_query_select_from_public_actor(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 18580300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User should get all information from that table",
+            "match": {
+              "location": "DataBaseStepDefinition.user_should_get_all_information_from_that_table()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@testingdatabase"
+          }
+        ]
+      }
+    ],
+    "name": "DataBase SQL Query Feature",
+    "description": "",
+    "id": "database-sql-query-feature",
+    "keyword": "Feature",
+    "uri": "Features/DataBaseFeature.feature"
+  }
+]

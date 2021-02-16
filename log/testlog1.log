@@ -1,0 +1,277 @@
+2021-02-04 21:35:18,835 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-04 21:35:22,813 [main] INFO logger_File - Retail page is opened
+2021-02-04 21:35:22,826 [main] INFO logger_File - Page title  is verified
+2021-02-04 21:35:23,354 [main] INFO logger_File - User entered value in search bar
+2021-02-04 21:37:28,103 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-04 21:37:32,571 [main] INFO logger_File - Retail page is opened
+2021-02-04 21:37:32,583 [main] INFO logger_File - Page title  is verified
+2021-02-04 21:37:33,092 [main] INFO logger_File - User entered value in search bar
+2021-02-04 21:54:18,350 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-04 21:54:23,013 [main] INFO logger_File - Retail page is opened
+2021-02-04 21:54:23,028 [main] INFO logger_File - Page title  is verified
+2021-02-04 21:54:23,703 [main] INFO logger_File - User entered value in search bar
+2021-02-04 21:57:35,289 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-04 21:57:39,673 [main] INFO logger_File - Retail page is opened
+2021-02-04 21:57:39,684 [main] INFO logger_File - Page title  is verified
+2021-02-04 21:57:40,339 [main] INFO logger_File - User entered value in search bar
+2021-02-04 21:57:41,249 [main] INFO logger_File - User clicked on seach button
+2021-02-04 21:57:41,662 [main] INFO logger_File - iPhone image is displayed
+2021-02-04 21:57:42,417 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-05 11:56:42,971 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-05 11:56:55,667 [main] INFO logger_File - Retail page is opened
+2021-02-05 11:56:55,688 [main] INFO logger_File - Page title  is verified
+2021-02-05 11:56:56,156 [main] INFO logger_File - User entered value in search bar
+2021-02-05 11:56:57,130 [main] INFO logger_File - User clicked on seach button
+2021-02-05 11:56:57,479 [main] INFO logger_File - iPhone image is displayed
+2021-02-05 11:56:58,238 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-07 12:39:58,301 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 12:40:11,849 [main] INFO logger_File - Retail page is opened
+2021-02-07 12:40:11,862 [main] INFO logger_File - Page title  is verified
+2021-02-07 12:40:12,340 [main] INFO logger_File - User entered value in search bar
+2021-02-07 12:40:13,675 [main] INFO logger_File - User clicked on seach button
+2021-02-07 12:40:14,097 [main] INFO logger_File - iPhone image is displayed
+2021-02-07 12:40:14,931 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-07 13:10:28,898 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 13:10:32,732 [main] INFO logger_File - Search functionality test case   undefined
+2021-02-07 13:25:04,711 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 13:25:08,654 [main] INFO logger_File - Search functionality test case   undefined
+2021-02-07 13:26:18,679 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 13:26:22,122 [main] INFO logger_File - Search functionality test case   undefined
+2021-02-07 13:26:47,983 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 13:26:51,287 [main] INFO logger_File - Search functionality test case   undefined
+2021-02-07 13:32:16,527 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 13:32:19,908 [main] INFO logger_File - Search functionality test case   undefined
+2021-02-07 13:36:28,949 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 13:36:32,763 [main] INFO logger_File - Search functionality test case   undefined
+2021-02-07 13:38:58,285 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 13:39:56,542 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 13:40:00,125 [main] INFO logger_File - Search functionality test case   undefined
+2021-02-07 13:42:31,284 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 13:45:32,487 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 13:46:21,226 [main] INFO logger_File - Search functionality test case   failed
+2021-02-07 14:10:29,422 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 14:10:33,544 [main] INFO logger_File - Retail page is opened
+2021-02-07 14:10:33,555 [main] INFO logger_File - Page title  is verified
+2021-02-07 14:10:34,621 [main] INFO logger_File - Search functionality Test case   undefined
+2021-02-07 14:21:31,952 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 14:21:36,087 [main] INFO logger_File - Retail page is opened
+2021-02-07 14:21:36,098 [main] INFO logger_File - Page title  is verified
+2021-02-07 14:21:36,627 [main] INFO logger_File - User entered value in search bar
+2021-02-07 14:21:37,458 [main] INFO logger_File - User clicked on Search Button
+2021-02-07 14:21:37,799 [main] INFO logger_File - iPhone image is diplayed
+2021-02-07 14:21:38,483 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-07 14:23:33,434 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 14:23:37,913 [main] INFO logger_File - Retail page is opened
+2021-02-07 14:23:37,930 [main] INFO logger_File - Page title  is verified
+2021-02-07 14:23:38,522 [main] INFO logger_File - User entered value in search bar
+2021-02-07 14:23:39,482 [main] INFO logger_File - User clicked on Search Button
+2021-02-07 14:23:39,868 [main] INFO logger_File - iPhone image is diplayed
+2021-02-07 14:23:40,629 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-07 14:29:00,960 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 14:29:05,274 [main] INFO logger_File - Retail page is opened
+2021-02-07 14:33:18,701 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 14:33:22,255 [main] INFO logger_File - Search functionality test case   undefined
+2021-02-07 14:35:59,897 [main] INFO logger_File - Scenario Search functionality test case Started 
+2021-02-07 14:36:03,487 [main] INFO logger_File - Search functionality test case   undefined
+2021-02-07 15:28:53,239 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 15:28:57,472 [main] INFO logger_File - Retail page is opened
+2021-02-07 15:28:57,483 [main] INFO logger_File - Page title  is verified
+2021-02-07 15:28:58,526 [main] INFO logger_File - Search functionality Test case   undefined
+2021-02-07 15:35:47,397 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 15:35:51,699 [main] INFO logger_File - Retail page is opened
+2021-02-07 15:35:51,712 [main] INFO logger_File - Page title  is verified
+2021-02-07 15:35:52,286 [main] INFO logger_File - User entered value in seacrch bar
+2021-02-07 15:35:53,196 [main] INFO logger_File - User Clicked on search button
+2021-02-07 15:35:53,573 [main] INFO logger_File - iPhone image is displayed
+2021-02-07 15:35:55,930 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-07 15:45:33,578 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 15:45:38,010 [main] INFO logger_File - Retail page is opened
+2021-02-07 15:45:38,021 [main] INFO logger_File - Page title  is verified
+2021-02-07 15:45:38,490 [main] INFO logger_File - User entered value in seacrch bar
+2021-02-07 15:45:39,372 [main] INFO logger_File - User Clicked on search button
+2021-02-07 15:45:39,711 [main] INFO logger_File - iPhone image is displayed
+2021-02-07 15:45:40,433 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-07 17:24:46,018 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:24:48,988 [main] INFO logger_File -    undefined
+2021-02-07 17:30:39,166 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:30:43,161 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:30:43,173 [main] INFO logger_File - Page title  is verified
+2021-02-07 17:31:29,486 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:31:34,008 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:31:34,793 [main] INFO logger_File -    failed
+2021-02-07 17:31:56,845 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:32:01,350 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:32:02,097 [main] INFO logger_File -    failed
+2021-02-07 17:34:04,676 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:34:09,666 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:34:10,403 [main] INFO logger_File -    failed
+2021-02-07 17:34:44,815 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:34:49,490 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:34:50,200 [main] INFO logger_File -    failed
+2021-02-07 17:35:05,914 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 17:35:11,296 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:35:12,115 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-07 17:36:10,939 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 17:36:14,946 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:36:14,955 [main] INFO logger_File - Page title  is verified
+2021-02-07 17:36:15,475 [main] INFO logger_File - User entered value in seacrch bar
+2021-02-07 17:36:16,314 [main] INFO logger_File - User Clicked on search button
+2021-02-07 17:36:16,655 [main] INFO logger_File - iPhone image is displayed
+2021-02-07 17:36:17,414 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-07 17:37:45,042 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:37:49,575 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:37:50,315 [main] INFO logger_File -    failed
+2021-02-07 17:38:22,523 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:38:27,073 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:38:27,812 [main] INFO logger_File -    failed
+2021-02-07 17:38:45,995 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:38:50,410 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:38:51,120 [main] INFO logger_File -    failed
+2021-02-07 17:40:16,340 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:40:20,927 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:40:21,644 [main] INFO logger_File -    failed
+2021-02-07 17:40:52,213 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:40:55,059 [main] INFO logger_File -    undefined
+2021-02-07 17:41:42,581 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:41:47,064 [main] INFO logger_File - Retail page is opened
+2021-02-07 17:41:47,933 [main] INFO logger_File -    failed
+2021-02-07 17:43:22,996 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:43:25,394 [main] INFO logger_File - Bank page is opened
+2021-02-07 17:44:11,421 [main] INFO logger_File -    failed
+2021-02-07 17:53:28,465 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:53:30,937 [main] INFO logger_File - Bank page is opened
+2021-02-07 17:53:31,901 [main] INFO logger_File -    undefined
+2021-02-07 17:55:12,625 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:55:15,068 [main] INFO logger_File - Bank page is opened
+2021-02-07 17:57:37,507 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:57:39,934 [main] INFO logger_File - Bank page is opened
+2021-02-07 17:58:24,944 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:58:27,400 [main] INFO logger_File - Bank page is opened
+2021-02-07 17:58:53,116 [main] INFO logger_File - Scenario  Started 
+2021-02-07 17:58:55,545 [main] INFO logger_File - Bank page is opened
+2021-02-07 17:58:57,539 [main] INFO logger_File -    failed
+2021-02-07 18:01:40,844 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 18:01:43,247 [main] INFO logger_File - Bank page is opened
+2021-02-07 18:01:45,242 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-07 18:02:21,000 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 18:02:23,344 [main] INFO logger_File - Bank page is opened
+2021-02-07 18:02:25,345 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-07 18:03:00,027 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 18:03:02,409 [main] INFO logger_File - Bank page is opened
+2021-02-07 18:03:04,403 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-07 18:04:13,293 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 18:04:15,777 [main] INFO logger_File - Bank page is opened
+2021-02-07 18:04:17,756 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-07 21:51:11,545 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 21:51:15,775 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-07 21:51:31,063 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 21:51:33,603 [main] INFO logger_File - Bank page is opened
+2021-02-07 21:51:35,628 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-07 21:54:29,750 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 21:54:32,150 [main] INFO logger_File - Bank page is opened
+2021-02-07 21:54:34,140 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-07 21:59:16,038 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-07 21:59:18,485 [main] INFO logger_File - Bank page is opened
+2021-02-07 21:59:20,511 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-07 22:16:52,546 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-02-07 22:16:56,613 [main] INFO logger_File - Retail page is opened
+2021-02-07 22:16:56,626 [main] INFO logger_File - Page title  is verified
+2021-02-07 22:16:57,691 [main] INFO logger_File - Login to MyAccount   undefined
+2021-02-07 22:19:16,256 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-02-07 22:19:20,202 [main] INFO logger_File - Retail page is opened
+2021-02-07 22:19:20,217 [main] INFO logger_File - Page title  is verified
+2021-02-07 22:19:22,749 [main] INFO logger_File - Login to MyAccount   passed
+2021-02-07 22:20:20,759 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-02-07 22:20:24,787 [main] INFO logger_File - Retail page is opened
+2021-02-07 22:20:24,800 [main] INFO logger_File - Page title  is verified
+2021-02-07 22:20:45,544 [main] INFO logger_File - Login to MyAccount   passed
+2021-02-08 20:34:58,414 [main] INFO logger_File - Scenario Register and Account test case Started 
+2021-02-08 20:35:04,398 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:35:04,411 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:35:05,016 [main] INFO logger_File - User click on My Account
+2021-02-08 20:35:05,917 [main] INFO logger_File - Register and Account test case   undefined
+2021-02-08 21:05:55,568 [main] INFO logger_File - Scenario Register and Account test case Started 
+2021-02-08 21:06:00,886 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:06:00,903 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:06:01,395 [main] INFO logger_File - User click on My Account
+2021-02-08 21:06:02,140 [main] INFO logger_File - User click on Register option
+2021-02-08 21:06:02,916 [main] INFO logger_File - Register and Account test case   failed
+2021-02-08 21:17:24,128 [main] INFO logger_File - Scenario Register and Account test case Started 
+2021-02-08 21:17:28,528 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:17:28,542 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:17:28,971 [main] INFO logger_File - User click on My Account
+2021-02-08 21:17:29,632 [main] INFO logger_File - User click on Register option
+2021-02-08 21:17:30,115 [main] INFO logger_File - User filled the information form
+2021-02-08 21:17:30,536 [main] INFO logger_File - User Check Privacy and Policy
+2021-02-08 21:17:31,338 [main] INFO logger_File - User clicked on cotinue button
+2021-02-08 21:17:31,673 [main] INFO logger_File - Account was created succesfully
+2021-02-08 21:17:32,899 [main] INFO logger_File - Register and Account test case   passed
+2021-02-14 16:59:27,456 [main] INFO logger_File - Scenario Register and Account test case Started 
+2021-02-14 16:59:35,072 [main] INFO logger_File - Retail page is opened
+2021-02-14 16:59:35,085 [main] INFO logger_File - Page title  is verified
+2021-02-14 16:59:36,423 [main] INFO logger_File - User click on My Account
+2021-02-14 16:59:37,119 [main] INFO logger_File - User click on Register option
+2021-02-14 16:59:37,698 [main] INFO logger_File - User filled the information form
+2021-02-14 16:59:38,165 [main] INFO logger_File - User Check Privacy and Policy
+2021-02-14 16:59:40,434 [main] INFO logger_File - User clicked on cotinue button
+2021-02-14 17:00:38,876 [main] INFO logger_File - Scenario Register and Account test case Started 
+2021-02-14 17:00:43,022 [main] INFO logger_File - Retail page is opened
+2021-02-14 17:00:43,033 [main] INFO logger_File - Page title  is verified
+2021-02-14 17:00:43,491 [main] INFO logger_File - User click on My Account
+2021-02-14 17:00:44,110 [main] INFO logger_File - User click on Register option
+2021-02-14 17:00:44,635 [main] INFO logger_File - User filled the information form
+2021-02-14 17:00:45,019 [main] INFO logger_File - User Check Privacy and Policy
+2021-02-14 17:00:45,826 [main] INFO logger_File - User clicked on cotinue button
+2021-02-14 17:00:46,156 [main] INFO logger_File - Account was created succesfully
+2021-02-14 17:00:46,904 [main] INFO logger_File - Register and Account test case   passed
+2021-02-14 17:12:41,293 [main] INFO logger_File - Scenario  Started 
+2021-02-14 17:12:45,567 [main] INFO logger_File - Retail page is opened
+2021-02-14 17:12:45,592 [main] INFO logger_File - Page title  is verified
+2021-02-14 17:12:46,765 [main] INFO logger_File -    undefined
+2021-02-14 17:12:46,771 [main] INFO logger_File - Scenario  Started 
+2021-02-14 17:12:50,268 [main] INFO logger_File - Retail page is opened
+2021-02-14 17:12:50,276 [main] INFO logger_File - Page title  is verified
+2021-02-14 17:12:51,342 [main] INFO logger_File -    undefined
+2021-02-14 17:12:51,348 [main] INFO logger_File - Scenario  Started 
+2021-02-14 17:12:54,744 [main] INFO logger_File - Retail page is opened
+2021-02-14 17:12:54,755 [main] INFO logger_File - Page title  is verified
+2021-02-14 17:12:55,861 [main] INFO logger_File -    undefined
+2021-02-14 17:12:55,867 [main] INFO logger_File - Scenario  Started 
+2021-02-14 17:12:59,277 [main] INFO logger_File - Retail page is opened
+2021-02-14 17:12:59,284 [main] INFO logger_File - Page title  is verified
+2021-02-14 17:13:00,376 [main] INFO logger_File -    undefined
+2021-02-16 00:30:48,878 [main] INFO logger_File - Scenario Execute all information from Actor table Started 
+2021-02-16 00:30:55,804 [main] INFO logger_File - Execute all information from Actor table   undefined
+2021-02-16 00:36:43,999 [main] INFO logger_File - Scenario Execute all information from Actor table Started 
+2021-02-16 00:36:47,453 [main] INFO logger_File - connection is established between jdbc and db
+2021-02-16 00:36:48,311 [main] INFO logger_File - Execute all information from Actor table   failed
+2021-02-16 00:46:02,096 [main] INFO logger_File - Scenario Execute all information from Actor table Started 
+2021-02-16 00:46:05,636 [main] INFO logger_File - connection is established between jdbc and db
+2021-02-16 00:46:05,670 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-16 00:46:05,675 [main] INFO logger_File - resultset is stored in a csv file in outcome folder
+2021-02-16 00:46:05,677 [main] INFO logger_File - database connection has been closed
+2021-02-16 00:46:06,403 [main] INFO logger_File - Execute all information from Actor table   passed
+2021-02-16 00:46:58,097 [main] INFO logger_File - Scenario Execute all information from Actor table Started 
+2021-02-16 00:47:00,903 [main] INFO logger_File - connection is established between jdbc and db
+2021-02-16 00:47:00,920 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-16 00:47:00,960 [main] INFO logger_File - resultset is stored in a csv file in outcome folder
+2021-02-16 00:47:00,961 [main] INFO logger_File - database connection has been closed
+2021-02-16 00:47:01,674 [main] INFO logger_File - Execute all information from Actor table   passed
+2021-02-16 00:48:43,347 [main] INFO logger_File - Scenario Execute all information from Actor table Started 
+2021-02-16 00:48:46,263 [main] INFO logger_File - connection is established between jdbc and db
+2021-02-16 00:48:46,298 [main] INFO logger_File - select * from public.film: has been executed
+2021-02-16 00:48:46,444 [main] INFO logger_File - resultset is stored in a csv file in outcome folder
+2021-02-16 00:48:46,445 [main] INFO logger_File - database connection has been closed
+2021-02-16 00:48:47,191 [main] INFO logger_File - Execute all information from Actor table   passed
+2021-02-16 00:50:24,773 [main] INFO logger_File - Scenario Execute all information from Actor table Started 
+2021-02-16 00:50:27,718 [main] INFO logger_File - connection is established between jdbc and db
+2021-02-16 00:50:27,744 [main] INFO logger_File - select * from public.film: has been executed
+2021-02-16 00:50:27,860 [main] INFO logger_File - resultset is stored in a csv file in outcome folder
+2021-02-16 00:50:27,862 [main] INFO logger_File - database connection has been closed
+2021-02-16 00:50:28,586 [main] INFO logger_File - Execute all information from Actor table   passed
+2021-02-16 00:50:53,038 [main] INFO logger_File - Scenario Execute all information from Actor table Started 
+2021-02-16 00:50:55,916 [main] INFO logger_File - connection is established between jdbc and db
+2021-02-16 00:50:55,945 [main] INFO logger_File - select description from public.film: has been executed
+2021-02-16 00:50:55,964 [main] INFO logger_File - resultset is stored in a csv file in outcome folder
+2021-02-16 00:50:55,966 [main] INFO logger_File - database connection has been closed
+2021-02-16 00:50:56,730 [main] INFO logger_File - Execute all information from Actor table   passed
