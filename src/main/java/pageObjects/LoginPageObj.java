@@ -9,12 +9,9 @@ import core.Base;
 
 public class LoginPageObj extends Base {
 	
-	// this is comment for git push
+	// this is practice to push codes to githup
 	/*
-	 * this is a practice for pushing new changes. 
-	 * this is a test 
-	 * 
-	 * 
+	 * this is a practice comment. 
 	 * */
 
 	// create a constructor for this page and this applies to all page objects
